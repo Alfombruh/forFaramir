@@ -3,7 +3,7 @@
 
 Este ejercicio es bonus, eso no te excluye de hacerlo.</br>
 
-## [Ejemplo.cpp](/ejercicio_2/ejemplo.cpp)
+## [Ejemplo.cpp](/ejercicio_3/ejemplo.cpp)
 Este ejemplo es un poco lio de leer, hay dos clases declaradas y mucho por leer, sinmas, mucha suerte, confio en ti gudari
 
 ## Lo que tienes que hacer
